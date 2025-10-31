@@ -4,11 +4,11 @@ Free models for usage with precise-lite
 
 ## Related repos
 
+- **NEW** - [ovos-ww-plugin-precise-onnx](https://github.com/TigreGotico/ovos-ww-plugin-precise-onnx) - OVOS plugin for precise-lite  (.onnx models)
+- [ovos-ww-plugin-precise-lite](https://github.com/OpenVoiceOS/ovos-ww-plugin-precise-lite) - OVOS plugin for precise-lite (.tflite models)
 - [precise-lite-trainer](https://github.com/OpenVoiceOS/precise-lite-trainer) - train/convert models with this
-- [precise-lite-plugin](https://github.com/OpenVoiceOS/ovos-ww-plugin-precise-lite) - OVOS plugin for precise-lite!
-- [precise-lite-runner](https://github.com/OpenVoiceOS/precise_lite_runner) - to run tflite models on your own, without a full tf2 install
-- [precise-community-data](https://github.com/MycroftAI/precise-community-data) - Community data, if you submit your samples 
-  to the community repo and open an issue here with the link we will train a precise-lite model for you
+- [precise-lite-runner](https://github.com/OpenVoiceOS/precise_lite_runner) - standalone precise tflite model runner
+- [precise-community-data](https://github.com/MycroftAI/precise-community-data) - Community data
   
 ## Training
 
